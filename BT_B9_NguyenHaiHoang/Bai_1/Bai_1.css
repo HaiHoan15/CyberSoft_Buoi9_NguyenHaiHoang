@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background-color: #e6f7ff;
+    text-align: center;
+    padding: 40px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#ketqua {
+    margin-top: 20px;
+}
+
+#ketqua input {
+    background-color: #d4edda;
+    color: #155724;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #c3e6cb;
+}
